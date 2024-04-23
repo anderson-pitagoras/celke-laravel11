@@ -6,3 +6,6 @@ Já veio instalado Composer / Key
 ### Gerar chave caso precise
 
 php artisan key:generate
+
+##
+ novo arquivo
