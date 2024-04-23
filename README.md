@@ -8,4 +8,4 @@ Já veio instalado Composer / Key
 php artisan key:generate
 
 ##
- novo arquivo
+ novo arquivo 1
