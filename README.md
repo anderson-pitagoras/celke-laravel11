@@ -41,3 +41,6 @@ MVC - User -> Controller -> View -> User
 
 
 ### Como criar rotas
+
+### Criar Models
+php artisan make:model Course
