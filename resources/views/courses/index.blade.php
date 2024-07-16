@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Lista Cursos</title>
-</head>
-<body>
-    <h1> Listar Cursos</h1>
 
-</body>
-</html>
+@extends('layouts.admin')
+
+@section('content')
+
+<h1> Listar Cursos</h1>
+
+<a href="{{ route('courses.show') }}">Visualizar</a>    </br>
+<a href="{{ route('courses.create') }}">Cadastrar</a>
+
+@endsection
+
+
 

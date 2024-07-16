@@ -15,7 +15,7 @@
 ## pastas 
     database / migrations / create_curses_table
 
-## executar as migrations  
+## executar as migrations  (rodar no BD )
     php artisan migrate
 
 ## Como Criar Rotas 
@@ -38,3 +38,6 @@ Commando: php artisan make:view courses/index
 
 Padrão 
 MVC - User -> Controller -> View -> User
+
+
+### Como criar rotas
